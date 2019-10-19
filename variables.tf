@@ -1,7 +1,7 @@
 #Define variables
 variable "container_name" {
   description = "Name of the container."
-  default     = "ghost_blog"
+  default     = "myghost_blog"
 }
 variable "image_name" {
   description = "Image for container."
